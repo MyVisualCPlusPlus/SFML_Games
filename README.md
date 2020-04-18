@@ -8,7 +8,9 @@ SFML的一些例子
 
 项目配置：
 1. Visual Studio 2019
+
 2. SFML-2.5.1 下载链接：https://www.sfml-dev.org/download/sfml/2.5.1/ 下载对应32位版本
+
 3.配置SFML系统环境变量SFML_HOME，路径修改为你的解压路径,将路径下的bin文件夹路径添加到系统Path路径中
 
 4.打开SFML_GAMES.sln即可编译
